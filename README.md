@@ -28,7 +28,7 @@ View the live demo: [kanban-board.vercel.app](https://kanban-board.vercel.app/)
 
 - HTML & CSS
 - Javascript
-- Object oriented programming
+- OOP concepts
 
 ### Installation
 
