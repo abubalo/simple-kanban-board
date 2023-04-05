@@ -20,7 +20,7 @@ List of technologies used in the project:
 
 ## Demo
 
-View the live demo: [kanban-board.vercel.app](https://kanban-board.vercel.app/)
+View the live demo: [kanban-board.vercel.app](https://kanban-board-pearl.vercel.app/)
 
 ## Getting Started
 
