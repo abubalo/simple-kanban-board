@@ -26,7 +26,9 @@ View the live demo: [kanban-board.vercel.app](https://kanban-board.vercel.app/)
 
 ### Prerequisites
 
-- Web browser
+- HTML & CSS
+- Javascript
+- Object oriented programming
 
 ### Installation
 
